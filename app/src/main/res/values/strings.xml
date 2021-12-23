@@ -1,12 +1,13 @@
 <resources>
     <string name="app_name">SimpleTaskApp</string>
+    <string name="use_switch">Use switch</string>
 
     <string-array name="names">
-        <item>asmi</item>
-        <item>naman</item>
-        <item>karan</item>
-        <item>anshu</item>
-        <item>sanjay</item>
-        <item>shikha</item>
+        <item>grow</item>
+        <item>indigo</item>
+        <item>hcl</item>
+        <item>webster</item>
+        <item>next</item>
+        <item>java</item>
     </string-array>
 </resources>

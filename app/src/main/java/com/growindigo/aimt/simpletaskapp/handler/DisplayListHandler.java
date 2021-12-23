@@ -38,7 +38,6 @@ public class DisplayListHandler {
     /**
      * handles capitalization
      * using apache.commons lib
-     *
      */
     public void capitalizeNames(){
         List<String> l = new ArrayList<>(list.size());
