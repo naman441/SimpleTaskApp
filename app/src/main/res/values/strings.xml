@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleTaskApp</string>
+
+    <string-array name="names">
+        <item>asmi</item>
+        <item>naman</item>
+        <item>karan</item>
+        <item>anshu</item>
+        <item>sanjay</item>
+        <item>shikha</item>
+    </string-array>
+</resources>
